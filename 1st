@@ -1,0 +1,20 @@
+<!DOCTYPE html> 
+<html>
+<head> 
+<title>leksioni 3</title>
+ </head>
+  <body>
+   <h1>this is heder 1 </h1> 
+   <h2>this is heder 2 </h2> 
+   <h3>this is heder 3️ </h3> 
+   <h4>this is heder 4 </h4> 
+   <h5>this is heder 5 </h5> 
+   <h6>this is heder 6 </h6> 
+   <hr> 
+   <p> ky<mark> eshte</mark> <stong>paragrafi</stong> yne i are <em>i shkrujtur </em>ne<b> html</b> </p> 
+   <br> 
+   <p>ky shte<small>paragrafi </small>yne i dyte i <sub>cili</sub> do te <sup>stilizohet</sup> dhe do ti jepen disa <del>funksione</del>
+   </p> <blockquote>lgug khugsiwgqe sgjfiyt</blockquote> <cite>shkolla digjitale</cite> 
+   <addres>kompleksi kika 2 </addres> </body> </html>
+   <hr><br>
+ <!-- kjo eshte thjesht nje kment-->
